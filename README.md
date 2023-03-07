@@ -1,3 +1,10 @@
-Cyjon/Fern-Night kernels - click in [![here](https://github.com/users/CorruptedByCPU/projects/3/views/1)](https://github.com/users/CorruptedByCPU/projects/3/views/3?layout=table) to see how's the project going up.
+Welcome!
+
+ Cyjon/Fern-Night is a simple project of multitasking operating system
+for 64-bit processors from x86_64 family. Operating system doesn't have
+its name, yet.
+
+ A system that is detached from reality. Fully resident in memory.
+(Yep, no installation on hard drive needed.)
 
 ![Cyjon 0.2099](https://blackdev.org/shot/2099.png?)
