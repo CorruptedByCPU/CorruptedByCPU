@@ -7,4 +7,4 @@ its name, yet.
  A system that is detached from reality. Fully resident in memory.
 (Yep, no installation on hard drive needed.)
 
-![Cyjon 0.2099](https://blackdev.org/shot/2110.png?)
+![Cyjon 0.2099](https://blackdev.org/shot/2116.png?)
