@@ -9,4 +9,4 @@ its name, yet.
 
 PS: I'm looking for a *really* small C compiler that won't be bigger (in Bytes) than the current Cyjon/Fern-Night operating system :D **Good Luck!**
 
-![Cyjon 0.2099](https://blackdev.org/shot/2116.png?)
+![Cyjon 0.2099](https://blackdev.org/shot/2124.png?)
