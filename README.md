@@ -8,4 +8,4 @@ for 64-bit processors from x86_64 family.
 
 PS: I'm looking for a *really* small C compiler that won't be bigger (in Bytes) than the current Cyjon/Fern-Night operating system :D **Good Luck!**
 
-![Foton 0.146](https://blackdev.org/shot/foton-0.162.png)
+![Foton v0.243](https://blackdev.org/shot/foton-243.png)
