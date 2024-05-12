@@ -1,9 +1,7 @@
 Welcome!
 
- Foton/Cyjon/Fern-Night is a simple project of multitasking operating system
-for 64-bit processors from x86_64 family.
+ Foton (workname) is a hobby operating system based mostly on NOTHING. Lazy development begin at first day of year 2013 and Assembly language was choosen as first one. Order of namings is: Cyjon OS > Fern-Night and now Foton (all are worknames of OS project).
 
- A system that is detached from reality. Fully resident in memory.
-(Yep, no installation on hard drive needed.)
+I don't plan to migrate any software from other operating systems, I write everything myself whenever possible.
 
 ![Foton v0.243](https://blackdev.org/shot/foton-243.png)
