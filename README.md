@@ -8,6 +8,7 @@ Almost always available at my own channel of https://discord.com/invite/cRhs9yy2
 
 ![Foton v0.243](https://blackdev.org/shot/foton-243.png)
 
+```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 mDMEZp4QPBYJKwYBBAHaRw8BAQdAWzq0NDZBEyytRA3aftBtPbkhYcsKIJB3FG4J
 2m3KZuK0NUFuZHJ6ZWogKENvcnJ1cHRlZEJ5Q1BVKSBBZGFtY3p5ayA8dm9pZEBi
@@ -21,3 +22,4 @@ wJvf/g1/kunj8pMZz34W3N3QsgD8DB9kfSmJwv/wBrmqp6H43mwQikd1McJgIOKC
 oMPIHQY=
 =N5EC
 -----END PGP PUBLIC KEY BLOCK-----
+```
