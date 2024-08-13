@@ -1,6 +1,19 @@
 Welcome!
 
- Foton (workname) is a hobby operating system based mostly on NOTHING. Lazy development begin at first day of year 2013 and Assembly language was choosen as first one. Order of namings is: Cyjon OS > Fern-Night and now Foton (all are worknames of OS project).
+ Foton (workname) a lead OS project of Cyjon/Fern-Night. Is a hobby operating system based mostly on NOTHING. Lazy development begin at first day of year 2013 and Assembly language was choosen as first one. Order of namings is: Cyjon OS > Fern-Night and now Foton (all are worknames of OS project).
+
+Quick history:
+
+- 2013 started **Cyjon** OS.
+    
+- 2021 started **Fern-Night** OS (Cyjon migration to C language)
+  
+- 2022 all features from Fern-Night were migrated to Cyjon, and made both kernels compatible with each other on software level.
+    
+- 2023 started **Foton** OS, as a project incompatible with Cyjon/Fern-Night, but at the same time increasing the progress of work.
+    
+- 2024.08 started refactorization/synchronization of all source code from Foton to Cyjon/Fern-Night, to make all base software runnable on all of them. After that, Fern-Night will be only as substitute of Foton.
+
 
 I don't plan to migrate any software from other operating systems, I write everything myself whenever possible.
 
