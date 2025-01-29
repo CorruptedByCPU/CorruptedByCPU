@@ -19,7 +19,7 @@ I don't plan to migrate any software from other operating systems, I write every
 
 Almost always available at my own channel of https://discord.com/invite/cRhs9yy2YE
 
-![Foton v0.243](https://blackdev.org/shot/foton-243.png)
+![Foton v0.508](https://blackdev.org/shot/foton%20v0.508.png)
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
