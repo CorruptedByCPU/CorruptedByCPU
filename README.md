@@ -6,4 +6,4 @@ I do not plan to migrate any software from other operating systems, I writting e
 
 Almost always available at my own channel of https://discord.com/invite/cRhs9yy2YE
 
-![Foton v0.508](https://blackdev.org/shot/foton%20v0.508.png)
+![Foton v0.645](https://blackdev.org/shot/foton%20v0.645.png)
