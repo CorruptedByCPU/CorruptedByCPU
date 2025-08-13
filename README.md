@@ -1,4 +1,4 @@
-Welcome!
+Welcome! Yes, it's me - enthusiast, warped, devoured by OSDEV.
 
  Foton (workname) is a hobby operating system based mostly on NOTHING.
 
